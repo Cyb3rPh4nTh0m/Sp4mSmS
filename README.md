@@ -1,4 +1,4 @@
-# Sp4mSmS
+# Spam sms
 
 $ Pkg update && upgrade
 
